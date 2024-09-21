@@ -1,4 +1,4 @@
-#Convex Lens Blurred
+# Convex Lens Blurred
 
 A sample project to demonstrate a circular blurred convex lens effect using Slate Post Buffer.
 
