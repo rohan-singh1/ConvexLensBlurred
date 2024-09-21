@@ -3,4 +3,4 @@
 A sample project to demonstrate a circular blurred convex lens effect using Slate Post Buffer.
 
 Screenshot:
-![image]([https://user-images.githubusercontent.com/16334561/222867975-ff38437a-8003-4d2f-bda7-2d264d1e76cb.png](https://raw.githubusercontent.com/rohan-singh1/ConvexLensBlurred/refs/heads/main/Content/Screenshots/Screenshot1.png))
+![image](https://github.com/rohan-singh1/ConvexLensBlurred/blob/2fd775221413e8b18d1211001b092b8836a54e74/Content/Screenshots/Screenshot1.png)
